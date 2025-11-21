@@ -1,0 +1,94 @@
+REGRAS DE NEGÓCIO – Plataforma Maka Mami
+
+1. Identificação da Plataforma
+Nome: Maka Mami
+Tipo: Plataforma Comunitária de Denúncia e Monitoramento de Problemas Locais.
+Finalidade: Permitir que moradores reportem problemas públicos e comunitários, garantindo comunicação segura, eficiente e auditável entre cidadãos e a administração do bairro.
+
+2. Princípios de Funcionamento
+As regras de negócio da Maka Mami baseiam-se nos seguintes princípios:
+1.	Segurança e Confidencialidade: O sistema deverá proteger a identidade do denunciante sempre que este assim desejar.
+2.	Transparência e Rastreabilidade: Todas as denúncias deverão ter registo, status de acompanhamento e responsável atribuído.
+3.	Rapidez na Resolução: A administração local deve receber notificações imediatas e priorizar casos de risco.
+________________________________________
+3. Papel dos Usuários
+3.1 Moradores / Usuários
+	Podem registrar problemas e irregularidades.
+	Podem anexar fotos, vídeos ou localização.
+	Podem solicitar anonimato.
+
+Administração do Bairro
+	Recebe denúncias em tempo real.
+	Classifica e prioriza os problemas.
+	Valida que a solução foi concluída no terreno.
+	Emite relatórios internos e estatísticos.
+
+
+________________________________________
+
+4. Tipos de Problemas Aceitos
+A plataforma deve aceitar categorizações como:
+1.	Infraestruturas e Vias
+o	Buracos na rua
+o	Iluminação pública danificada
+o	Sinalização inexistente ou vandalizada
+2.	Limpeza e Ambiente
+o	Lixo acumulado
+o	Aterros ilegais
+o	Esgotos a céu aberto
+3.	Segurança Comunitária
+o	Vandalismo
+o	Consumo de drogas em locais públicos
+o	Ameaças ou situações de risco
+4.	Serviços Públicos
+o	Falhas no abastecimento de água
+o	Problemas com recolha de lixo
+o	Falhas de energia
+5.	Outros Problemas Sociais
+o	Conflitos comunitários
+o	Desorganização urbana
+o	Maus-tratos ou negligência social
+________________________________________
+
+
+5. Regras de Submissão de Denúncias
+1.	O usuário deve preencher obrigatoriamente:
+o	Categoria do problema
+o	Descrição
+o	Localização aproximada
+2.	O usuário pode optar pelo anonimato.
+3.	Cada denúncia deve gerar um ID único.
+________________________________________
+6. Fluxo de Tratamento da Denúncia
+1.	Submissão → Registrada no sistema
+2.	Validação Inicial (Moderador)
+o	Aprovada
+o	Rejeitada (com justificativa)
+3.	Classificação (Administração)
+o	Tipo de problema
+4.	Atribuição de Responsável
+5.	Execução da Solução
+6.	Confirmação
+o	Administração confirma no terreno
+7.	Encerramento
+o	Morador recebe notificação
+o	Morador pode avaliar o atendimento
+________________________________________
+
+7. Regras de Comunicação e Notificações
+•	O morador deve ser notificado em cada mudança de estado:
+o	“Recebido” (no whatssap ou email)
+o	“Em análise” (no whatssap ou email)
+o	“Em resolução” (no whatssap ou email)
+o	“Resolvido” (no whatssap ou email)
+
+8. Regras de Segurança
+•	A plataforma deve usar autenticação segura.
+•	Denúncias anónimas não armazenam dados de identidade.
+•	Logs de auditoria não podem ser apagados.
+________________________________________
+9. Regras de Governança e Responsabilidade
+•	A administração local é responsável pela gestão e resposta.
+•	A equipe técnica é responsável pelo suporte à plataforma.
+•	O cidadão é responsável pelo uso adequado e verídico do sistema.
+
