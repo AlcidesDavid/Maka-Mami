@@ -1,0 +1,45 @@
+*{
+    border: none;
+    margin: 0;
+    color: white;
+}
+body{
+    background-image: url(photos/OIP.webp);
+    background-position: center;
+    background-size: cover;
+    background-size: none;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+
+
+}
+header{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    position: absolute;
+
+}
+.sons{
+    height: 30px;
+    width: 100px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    border-bottom: 2px solid #F7F7F7;
+}
+.son1{
+    height: 100%;
+    width: 100px;
+    background-image: url(photos/Fifa-removebg-preview.png);
+    background-position: center;
+    background-size: cover;
+    background-size: none;
+    border: none;
+}
