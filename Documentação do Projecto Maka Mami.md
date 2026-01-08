@@ -21,7 +21,7 @@ As denúncias serão enviadas por meio de uma page onde constarão inmformaçõe
 
 
 •	Triagem e Verificação
-O funcionário da administração analisa a veracidade da denúncia pelo seui painel de admin. Analisa:
+O funcionário da administração analisa a veracidade da denúncia pelo seu painel de admin. Analisa:
 1.	Se a denúncia é válida
 2.	Se precisa de intervenção imediata
 3.	Se necessita de apoio de autoridades (polícia, administração local, proteção social, etc.)
